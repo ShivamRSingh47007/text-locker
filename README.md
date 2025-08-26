@@ -7,17 +7,7 @@ This tool is **specially optimized for speed** and made for personal use, combin
 
 ---
 
-## ✨ Features
-
-- 🔒 Lock text in PDFs to prevent copying  
-- 🖼️ Converts each page to an image internally for protection  
-- ⚡ Fast and optimized for personal workflow  
-- 🖥️ Easy-to-use GUI interface  
-- 📂 Lets you choose output location after conversion  
-
----
-
-## 🖼️ Screenshots
+## Screenshots
 
 **1. Main GUI**  
 ![GUI](https://i.ibb.co/gMQPYL9g/1.png)  
@@ -30,7 +20,7 @@ This tool is **specially optimized for speed** and made for personal use, combin
 
 ---
 
-## 🚀 Installation
+## Installation
 
 1. Clone the repository:
 
