@@ -1,7 +1,5 @@
 # TextLocker
 
-![Banner](https://i.ibb.co/gMQPYL9g/1.png)  
-
 **TextLocker** is a custom Python application designed to **lock text in PDFs**, making it impossible to copy directly.  
 The application **converts each page into images internally and recreates a secured PDF**, preventing text extraction while keeping the content readable.  
 
